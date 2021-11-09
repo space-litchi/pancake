@@ -1,3 +1,2 @@
-# graphics2
-graphics2
-图形2版
+# pancake
+pancake 引擎图形库
